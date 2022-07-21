@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Mi nombre es Jonathan Exequiel Moyano Soy desarrollador front-end</h1>
+<h1 align="center">Hola 👋 Mi nombre es Jonathan Exequiel Moyano Soy Desarrollador front-end</h1>
 <h3 align="center">En mi Portafolio detallo mi experiencia en el mundo dev, además detallo mis habilidades a nivel técnico, muestro algunos proyectos con las tecnologías usadas en estos.</h3>
 
 - 🖥️¡Actualmente estoy trabajando en un proyecto! [Heladeria Venezia](https://github.com/jonymoya10/Creando-tu-proprio-e-commerce.)
