@@ -3,6 +3,9 @@
 </p>
   
 .
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Name.png)
+
   
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
