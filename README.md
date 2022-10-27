@@ -1,26 +1,43 @@
-<h1 align="center">Hi, 👋 my name is Jonathan Exequiel Moyano. I'm a front-end developer.</h1>
-<h3 align="center">En mi Portafolio detallo mi experiencia en el mundo dev, además detallo mis habilidades a nivel técnico, muestro algunos proyectos con las tecnologías usadas en estos.</h3>
-
-- 🖥️¡Actualmente estoy trabajando en un proyecto! [Heladeria Venezia](https://github.com/jonymoya10/Creando-tu-proprio-e-commerce.)
-
-- 😊 Habilidades **Hard Skills/Soft skills**
-
-- 👨‍💻👨‍💻👩‍💻👩‍💻 ¡Actualmente estoy Colaborando en un proyecto Full Stack en el instituto superior politécnico córdoba! [Full Stack](https://github.com/jonymoya10/Creando-tu-proprio-e-commerce.)
-
-- 🔍 Busco colaborar con otras personas en proyectos personales y empresariales. **Desarrollo web Front-end/Full Stack**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jonymoya10](https://github.com/jonymoya10)
-
-- 💬 Pregúntame sobre **HTML,CSS,JavaScript y React**
-
-- 📫 Me puedes escribir **jonymoyaano@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathanmoyano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanmoyano" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
 </p>
+  
+.
+  
+  
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+  
+I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
+- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
+- 📫 How to reach me:
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
+|---|---|---|---|---|---|
+
+----
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+  
+.    
+   
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
 
+⭐️ From [@Amchuz](https://github.com/Amchuz)
