@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
-</p>
-  
-.
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Name.png)
 
   
   
