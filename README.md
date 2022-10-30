@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&color=F30E0E&lines=Hello%2C+world!+💻+I'm+Jonathan"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=30000&color=F30E0E&lines=Hello%2C+world!+💻+I'm+Jonathan"/>
 </h1>
 
 [📧](jiangzhiguo2010@live.com)
