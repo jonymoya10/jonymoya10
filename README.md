@@ -4,7 +4,7 @@
 
 [📧](jonymoyaano@gmail.com)
 
-> Full Stack Developer(Full Stack)
+> Full Stack Developer
 
 #### 📍 Córdoba,  Argentina
 
