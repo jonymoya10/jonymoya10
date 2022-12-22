@@ -24,9 +24,6 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
 
-#### My GitHub Stats(Only Personal Public Contributions 😑)
-
-[![Jiangzhiguo's github stats](https://github-readme-stats.vercel.app/api?username=Mr-jiangzhiguo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [
 Jonathan Exequiel Moyano](https://www.linkedin.com/in/jonathanmoyano/)
